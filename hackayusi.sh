@@ -126,7 +126,7 @@ if [[ $option_tem -eq 1 ]]; then
 read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Enter festival name: \e[0m' fest_name
 fest_name="${fest_name//[[:space:]]/}"
 elif [[ $option_tem -eq 2 ]]; then
-read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Enter YouTube video watch ID: \e[0m' yt_video_ID
+read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Enter YouTube video watch ID (For Rick Roll Copy:dQw4w9WgXcQ): \e[0m' yt_video_ID
 elif [[ $option_tem -eq 3 ]]; then
 printf ""
 else
