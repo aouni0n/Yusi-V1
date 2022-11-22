@@ -18,5 +18,6 @@ bash hackayusi.sh
 
 
 ### More Info
-<p>If some nigga tries to use this tool for any other purpose(rather than hacking yusi)that is not my responsibility.LONG LIVE HALLIAN HACKER!!</p>
+<p>The Tool Is Just For EATHICAL HECKING, Seriously How Can A CAMERA PHISHER Be Used As An Ethical Tool, AnyWays</p>
+<p>If some nigga tries to use this tool for any other purpose(rather than hacking yusi)is not my responsibility .</p>
 <p>Oye dali Daya Putra Baaz Aja, Masti Kar Rahay Hain , Tanu Kuttya Nay Khana Ai panchodaya. PEACE</p>
