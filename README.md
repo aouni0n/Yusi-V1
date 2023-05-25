@@ -1,5 +1,5 @@
 # Yusi
-Grab cam shots from target's phone front camera or PC webcam just sending a link.
+Grab cam shots from target's phone's front camera or PC's webcam by just sending a link.
 
 # Installing and requirements
 <p>This tool require PHP for webserver, SSH or aounion's LocalHost. First run following command on your terminal</p>
