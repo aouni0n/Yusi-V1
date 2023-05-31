@@ -18,4 +18,7 @@ bash hackayusi.sh
 
 
 ### More Info
-<p>The Tool Is Just For EATHICAL HECKING, Seriously How Can A CAMERA PHISHER Be Used As An Ethical Tool, AnyWays</p>
+<p>The Tool Is Just For EATHICAL HECKING, Seriously How Can A CAMERA PHISHER Be Used As An Ethical Tool, AnyWays, Use it just for harmless purposes</p>
+
+
+### This Tool Is A Modified Version On TechChip's CamPhish https://github.com/techchipnet/CamPhish
